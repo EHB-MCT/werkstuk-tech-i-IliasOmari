@@ -5,8 +5,8 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Voornaam Achternaam
-- Klasgroep
+- Ilias Omari
+- 1MCTB
 - Groepsnaam
 
 
