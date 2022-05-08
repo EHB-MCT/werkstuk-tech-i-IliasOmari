@@ -7,7 +7,7 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 - Ilias Omari
 - 1MCTB
-- Groepsnaam
+- dictator VS professor 
 
 
 ## Storyline 
@@ -29,12 +29,19 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 13. (new status quo)
 
 ## Experience
-
-Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
+Om de experience van de gebruiker vorm te geven heb ik volgende attributen gebruikt:
+- Hout 
+- Papier
+- Hobby DC Motor - 140 RPM 
+- PIR bewegings detectie module
+- 3d printer (voor 2 cilinders te printen)
+- 3 vijsjes
+- Arduinio (nano) + breadboard
+Ik kon nog dingens toevoegen zoals geluid en een(rode)LED-lampje.
 
 ## Interaction
 
-Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
+Als interaction heb ik a.d.h.v mijn motor en mijn beweginssensor ervoor gezorgt dat als er contact is met de bewignssensor dat mijn motor stopt met te draaien. Anders blijft mijn motor draaien. Maar dit kan niet zomaar functioneren. Ik heb het dus moeten programmeren op mijn pc. Ik heb een code geschreven met een if-statement erin. In de toekomst zou ik nog een buzzer (voor geluid) toevoegen voor meer suspens en ook rode LED-lampje voor de "angst" sfeer. 
 
 
 
