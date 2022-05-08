@@ -33,7 +33,7 @@ Om de experience van de gebruiker vorm te geven heb ik volgende attributen gebru
 - 3d printer (voor 2 cilinders te printen)
 - 3 vijsjes
 - Arduinio (nano) + breadboard
---> Ik kon nog dingens toevoegen zoals geluid en een(rode)LED-lampje.
+- Ik kon nog dingens toevoegen zoals geluid en een(rode)LED-lampje.
 
 ## Interaction
 
