@@ -30,6 +30,7 @@ Om de experience van de gebruiker vorm te geven heb ik volgende attributen gebru
 - Papier
 - Hobby DC Motor - 140 RPM 
 - PIR bewegings detectie module
+- laser cut machine
 - 3d printer (voor 2 cilinders te printen)
 - 3 vijsjes
 - Arduinio (nano) + breadboard
