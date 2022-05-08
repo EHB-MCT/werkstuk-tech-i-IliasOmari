@@ -5,7 +5,7 @@
 
 - Ilias Omari
 - 1MCTB
-- dictator VS professor 
+- Dictator VS professor 
 
 
 ## Storyline 
