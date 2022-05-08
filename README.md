@@ -1,7 +1,5 @@
 # Werkstuk technology
 
-Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbare mappen. Let op, lees de "info.txt" die hierin zit, beeldmateriaal moet volledig zijn. ZOrg voor voldoende foto's van je breadboard en opstelling.
-
 
 ## Eige informatie
 
@@ -12,20 +10,18 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Storyline 
 
-Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. Zet een "!" naast het deel dat jij hebt gedaan en "!!" naast het element dat je dynamisch maakte
-
-1. (status quo) Leeft in een wereld vol problemen
-2. (Call to adventure) Professor tegenwerken
-3. (Guidance) Bevolking helpt
-5. (Crossing) Cyber attack
-6. (Trials) Kan de server van professor niet aan en leert nieuwe technieken
-7. (Approach) Geeft alle richtlijnen aan zijn team
-8. (Crisis) Mensen van zijn team worden vermoord door robots van professor
-10. (Victory) Hij kan de robots stoppen
-11. (Reward) Heeft herkenning van het volk
-12. (Return) Hij is aan de macht samen met de dictator
-13. (New life) Hij heeft een beter leven
-14. (Resolution) Mensen helpen tegen cyberattack
+1. (status quo) Populatie leeft in een wereld vol problemen
+2. (Call to adventure) Professor wilt dictator hacken. Dictator wilt professor tegenwerken.
+3. (Guidance) Bevolking helpt de dictator **(!)**
+4. (Crossing) Dictator wordt gehackt **(!!)**
+5. (Trials) Dictator kan de server van professor niet aan en leert nieuwe technieken
+6. (Approach) Dictator heeft alle richtlijnen aan zijn team
+7. (Crisis) Mensen van zijn team worden vermoord door robots van professor
+8. (Victory) Dicator kan de robots stoppen
+9. (Reward) Dictator heeft herkenning van het volk
+10. (Return) Samen met de dictator komt de professor aan de macht
+11. (New life) Populatie leeft in een betere wereld
+12. (Resolution) Mensen leren hou ze moeten reageren bij een nieuwe cyberattack.
 
 
 ## Experience
@@ -37,7 +33,7 @@ Om de experience van de gebruiker vorm te geven heb ik volgende attributen gebru
 - 3d printer (voor 2 cilinders te printen)
 - 3 vijsjes
 - Arduinio (nano) + breadboard
-Ik kon nog dingens toevoegen zoals geluid en een(rode)LED-lampje.
+--> Ik kon nog dingens toevoegen zoals geluid en een(rode)LED-lampje.
 
 ## Interaction
 
