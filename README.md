@@ -38,7 +38,7 @@ Om de experience van de gebruiker vorm te geven heb ik volgende attributen gebru
 
 ## Interaction
 
-Als interaction heb ik a.d.h.v mijn motor en mijn beweginssensor ervoor gezorgt dat als er contact is met de bewignssensor dat mijn motor stopt met te draaien. Anders blijft mijn motor draaien. Maar dit kan niet zomaar functioneren. Ik heb het dus moeten programmeren op mijn pc. Ik heb een code geschreven met een if-statement erin. In de toekomst zou ik nog een buzzer (voor geluid) toevoegen voor meer suspens en ook rode LED-lampje voor de "angst" sfeer. 
+Als interaction heb ik a.d.h.v mijn motor en mijn beweginssensor ervoor gezorgt dat als er contact is met de bewignssensor dat mijn motor stopt met te draaien. Anders blijft mijn motor draaien. Als de motor draaide, dan konden mijn cilinders die gebonden waren aan mijn motor ook draainen en het blad tussen de cilinders doen bewegen. Maar dit kan niet zomaar functioneren. Ik heb het dus moeten programmeren op mijn pc. Ik heb een code geschreven met een if-statement erin. In de toekomst zou ik nog een buzzer (voor geluid) toevoegen voor meer suspens en ook rode LED-lampje voor de "angst" sfeer. 
 
 
 
